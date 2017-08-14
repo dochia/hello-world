@@ -1,0 +1,11 @@
+This file only contains information like when the project was created, who worked with it and estimates on work that needs to be completed.
+
+Added data: 8/14
+Developer: Alex ;)
+Task to be accomplished: 
+    1. Create a directory to store all tasks
+    2. Add needed files to the directory just created
+    3. Modify some of the files when necessary 
+    4. Commit all modified/added files
+    5. Create a pull request
+    6. Make sure you're merging all needed information
